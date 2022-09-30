@@ -1,0 +1,7 @@
+Ya tenéis al Octocat a la vista , pero para poder acabar de liberarlo Ridmi os hara unas preguntas a ver cuanto habéis aprendido hasta ahora.
+
+¡Enhorabuena ya teneis todas las herramientas para liberar al Octocat!
+
+Copia el enlace, pégalo en el navegaor y resuelve el quiz! SUERTE!
+
+https://guillerdev97.github.io/octocat-quiz-js/
