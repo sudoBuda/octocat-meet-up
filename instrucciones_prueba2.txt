@@ -1,0 +1,17 @@
+🧭 NECESITAMOS BUSCAR LA RAMA PARA SUBIR! 🧭
+
+Como ya teneis la escalera , podréis acceder al árbol de una forma segura y así podéis empezar a desplazaros por las ramas del árbol. 
+
+Hay varias ramas a las que podéis subir, pero... ¡vaya! Una ardilla malvada aparece y los acusa con el dedo de invadir su casa 🐿️
+
+En realidad, solo está un poco aburrida, así que accede a ayudaros. 
+No sin antes haceros pensar. Los humanos no pensáis mucho. Os diré qué rama es la más estable si me decís cuántxs hijxs tengo:
+
+😀 ACERTIJO:
+Mi hija tiene varias hermanas. Tiene tantas hermanas como hermanos. Cada uno de los hermanos tiene el doble de hermanas que de hermanos.
+¿Sabrías decir cuántos hijos e hijas tengo?
+
+Pista de apoyo...
+
+Unz vez habéis acertado el acertijo y sabéis la rama a la que tenéis que dirigiros, es hora de moveros!
+Git dispone de un comando para moverse entre ramas. Averigua cuál es y utilizalo para desplazarte a la rama objetivo.
