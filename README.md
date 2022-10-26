@@ -9,4 +9,3 @@
     Rochi
     Arnau
     Rosie
-    Guille
