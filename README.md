@@ -4,4 +4,3 @@
                      
 ✍️ Integrantes del equipo: Isabel, Yen, Po, Natalia, Jasmina, Karo
    
-
