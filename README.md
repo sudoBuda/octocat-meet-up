@@ -1,6 +1,6 @@
 # RIDMI
 
-✍️ Nombre del equipo: 
+✍️ Nombre del equipo: The Rescuers
                      
-✍️ Integrantes del equipo: 
+✍️ Integrantes del equipo: Isabel, Yen, Po, Natalia, Jasmina, Karo
    
